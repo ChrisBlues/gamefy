@@ -234,6 +234,13 @@ img {
     text-align: center;
 }
 
+.gallery .intro {
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 1rem;
+}
+
 .grid-container {
     margin-block: 3rem;
     display: grid;
